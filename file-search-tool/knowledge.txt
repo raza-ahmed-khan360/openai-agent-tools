@@ -1,0 +1,5 @@
+The Earth's atmosphere is composed of nitrogen (78%), oxygen (21%), and trace gases. 
+Photosynthesis in plants absorbs carbon dioxide and releases oxygen.
+Water boils at 100°C and freezes at 0°C at standard atmospheric pressure.
+GPT-4 is a large multimodal model developed by OpenAI capable of text and image understanding.
+Dawood University of Engineering and Technology (DUET) is located in Karachi, Pakistan.

@@ -3,5 +3,11 @@ name = "openai-tool-02"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.12"
-dependencies = []
+requires-python = ">=3.10"
+dependencies = [
+    "chainlit>=2.6.0",
+    "dotenv>=0.9.9",
+    "openai>=1.96.0",
+    "openai-agents>=0.2.0",
+    "pydentic>=0.0.1.dev3",
+]
